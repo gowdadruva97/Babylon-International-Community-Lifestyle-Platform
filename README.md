@@ -1,4 +1,4 @@
-# Babylon-International-Community-Lifestyle-Platform
+# Babylon International
 
 This project focuses on developing and growing Babylon, a digital community platform designed to help immigrants, expatriates and international users settle into new countries and build meaningful connections.
 
