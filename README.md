@@ -35,7 +35,7 @@ Monitored user engagement and product performance through dashboards and key per
 Supported experimentation and A/B testing to identify opportunities to improve user engagement.
 Helped improve communication between business and technical teams and streamline feedback-to-release processes.
 
-Tech Stack : Next Js , Fire base
+Tech Stack : Next Js , Firebase
 
 Project Management Tool : Jira , Trello
 
